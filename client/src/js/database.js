@@ -12,7 +12,7 @@ const initdb = async () =>
     },
   });
 
-// TODO: Add logic to a method that accepts some content and adds it to the database
+//  Adds logic to a method that accepts some content and adds it to the database
 export const putDb = async (content) => {
   const jateDB = await openDB('jate', 1);
 	const tx = jateDB.transaction('jate', 'readwrite');
@@ -22,7 +22,7 @@ export const putDb = async (content) => {
 	console.log(result);
   console.error('putDb not implemented')};
 
-// TODO: Add logic for a method that gets all the content from the database
+//  Adds logic for a method that gets all the content from the database
 export const getDb = async (e) => {
 	const jateDb = await openDB('jate', 1);
 	const tx = jateDb.transaction('jate', 'readonly');
