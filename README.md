@@ -56,7 +56,7 @@ This README provides a high-level overview of the text editor web application an
 
 ## Click Link below to navigate to website
 
-[pwa](https://pwa-jate-edit.herokuapp.com/)
+[PWA-JATE](https://pwa-jate-edit.herokuapp.com/)
 
 ## Install
 
