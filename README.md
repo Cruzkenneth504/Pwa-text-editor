@@ -34,7 +34,7 @@ Upon loading the web application, a service worker is registered using Workbox, 
 ## Deployment to Heroku
 The application is designed to be easily deployed to Heroku, a popular cloud platform. Proper build scripts are included to ensure a smooth deployment process, enabling you to host your text editor web application effortlessly.
 
-This README provides a high-level overview of the text editor web application and its features. For detailed instructions on setup, configuration, and deployment, please refer to the accompanying documentation. Enjoy a seamless and efficient text editing experience with our web application!
+
 
 ## Table of Contents 
 
