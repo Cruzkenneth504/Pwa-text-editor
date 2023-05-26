@@ -60,17 +60,12 @@ This README provides a high-level overview of the text editor web application an
 
 ## Install
 
-- click okay to allow installation
+- click "Okay" to authorize the installation process. By doing so, you give permission for the web application to be installed as an icon on your desktop. This will make accessing the text editor quick and effortless. Granting this permission enhances convenience and efficiency, allowing you to easily unleash your creativity. Embrace the simplicity and ease-of-use that comes with this decision. Simply click "Okay" to begin enjoying the benefits of having the text editor readily available on your desktop.
 
  ![step 1](./assets/imgs/install.png) 
+<br>
 
-
-### Login
-
-![Login](./assets/img/login.png)
-
-### Sign Up
-![signUp](./assets/img/signUp.png)
+ ![step 2](./assets/imgs/install2.png) 
 
 
 
@@ -95,7 +90,7 @@ This README provides a high-level overview of the text editor web application an
 ## **Author**
 
 * **Kenneth Cruz** 
-- [Link to Repo](https://github.com/Cruzkenneth504/tech-blog)
+- [Link to Repo](https://github.com/Cruzkenneth504/Pwa-text-editor)
 - [Link to Github](https://github.com/cruzkenneth504)
 - [Link to LinkedIn](linkedin.com/in/cruzkenneth504)
 
